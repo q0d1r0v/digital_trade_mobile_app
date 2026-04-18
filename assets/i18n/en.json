@@ -1,0 +1,148 @@
+{
+  "common": {
+    "continue": "Continue", "back": "Back", "save": "Save", "cancel": "Cancel", "skip": "Skip",
+    "done": "Done", "loading": "Loading...", "retry": "Retry", "error": "Error",
+    "delete": "Delete", "refresh": "Refresh", "search": "Search",
+    "notFound": "Not found", "notFoundRoute": "Page not found",
+    "add": "Add", "yes": "Yes", "no": "No"
+  },
+  "validation": {
+    "required": "Required", "invalidEmail": "Invalid email", "invalidPhone": "Invalid phone number",
+    "minLength6": "At least 6 characters", "mustBeGreaterZero": "Must be greater than 0"
+  },
+  "login": {
+    "title": "Welcome back", "subtitle": "Sign in to continue", "email": "Email",
+    "emailHint": "you@example.com", "password": "Password", "submit": "Sign in",
+    "noAccount": "No account yet?", "register": "Create one"
+  },
+  "register": {
+    "title": "Create your account", "subtitle": "Launch your business in minutes",
+    "fullName": "Full name", "email": "Email", "phone": "Phone", "password": "Password",
+    "gender": "Gender", "male": "Male", "female": "Female",
+    "companyInfo": "Company information", "companyName": "Company name",
+    "companyUniqueName": "Unique name (latin only)", "uniqueNameHint": "e.g. mycompany",
+    "companyType": "Company type", "physical": "Individual", "entity": "Legal entity",
+    "address": "Address", "submit": "Create account", "haveAccount": "Already have an account?",
+    "login": "Sign in", "free": "Free",
+    "selectPlanTitle": "Choose your plan", "selectPlanSubtitle": "You can change it later"
+  },
+  "pricing": { "currency": "UZS", "month": "per month", "perMonth": "{{amount}} UZS / month" },
+  "plans": {
+    "starter": { "name": "Starter", "tagline": "For new businesses", "feature1": "Up to 2 cashboxes", "feature2": "POS checkout", "feature3": "Unlimited products", "trialNote": "14-day trial" },
+    "business": { "name": "Business", "tagline": "For growing teams", "feature1": "Unlimited cashboxes & branches", "feature2": "Team management", "feature3": "Downloadable reports" },
+    "enterprise": { "name": "Enterprise", "tagline": "For large organisations", "feature1": "Custom contract", "feature2": "Priority support", "feature3": "Private integrations", "contact": "Contact us", "negotiated": "Negotiated" }
+  },
+  "onboarding": {
+    "welcome": { "title": "Welcome to Digital Trade!", "subtitle": "Let's get your business set up", "description": "A handful of quick steps and you're fully ready to run your store.", "takeTour": "Show me around", "exploreMyself": "I'll explore myself", "skip": "Skip" },
+    "checklist": {
+      "title": "Setup checklist",
+      "subtitle": "{{done}} of {{total}} done",
+      "dismiss": "Dismiss",
+      "dismissedHint": "You can reopen this anytime from Help",
+      "minimize": "Minimize",
+      "expand": "Expand",
+      "allDoneTitle": "Nice! You're all set",
+      "allDoneBody": "You can now run your business end to end.",
+      "tasks": {
+        "companyProfile": "Fill in company profile",
+        "firstCashbox": "Add a sales cashbox",
+        "firstCategory": "Create a product category",
+        "firstSupplier": "Add a supplier",
+        "firstProduct": "Add your first product",
+        "firstInputInvoice": "Record an input invoice",
+        "firstSale": "Make your first sale",
+        "inviteTeam": "Invite your team"
+      }
+    },
+    "tour": {
+      "next": "Next", "prev": "Previous", "done": "Done", "progress": "{{current}} of {{total}}",
+      "dashboard": { "title": "Dashboard", "body": "Business metrics and daily activity live here." },
+      "products": { "title": "Products", "body": "Manage categories, brands and products all in one place." },
+      "invoices": { "title": "Invoices & sales", "body": "Incoming, outgoing and POS." },
+      "clients": { "title": "Clients", "body": "Run sales with returning customers." }
+    },
+    "help": {
+      "title": "Help", "subtitle": "Guides and useful links",
+      "restartTour": "Restart guided tour", "showChecklist": "Open setup checklist",
+      "docs": "Documentation", "contact": "Contact support", "contactEmail": "support@digitaltrade.uz"
+    }
+  },
+  "home": { "welcome": "Hi, {{name}}", "companyLabel": "Company", "quickActions": "Quick actions", "setupProgress": "Setup progress" },
+  "nav": {
+    "home": "Home", "products": "Products", "clients": "Clients", "invoices": "Invoices",
+    "settings": "Settings", "brands": "Brands", "suppliers": "Suppliers",
+    "categories": "Categories", "cashboxes": "Cashboxes", "team": "Team", "salesHistory": "Sales history"
+  },
+  "settings": {
+    "title": "Settings", "language": "Language", "theme": "Theme",
+    "themeLight": "Light", "themeDark": "Dark", "themeSystem": "System",
+    "help": "Help", "logout": "Log out", "account": "Account", "about": "About"
+  },
+  "auth": { "logoutConfirm": "Are you sure you want to log out?" },
+  "dashboard": {
+    "kpiTitle": "Metrics",
+    "monthlySalesTitle": "Monthly sales",
+    "monthlySalesEmpty": "Not enough monthly sales data yet",
+    "sales": "Sales",
+    "purchases": "Purchases",
+    "profit": "Profit",
+    "loss": "Loss",
+    "profitOrLoss": "Profit / Loss",
+    "debtSales": "On credit",
+    "returns": "Returns",
+    "stockValue": "Stock value",
+    "invoiceCount": "{{n}} invoices",
+    "quantity": "Quantity",
+    "soldQuantity": "Sold units",
+    "givenBonus": "Given bonuses",
+    "givenBonusQuantity": "Bonus quantity"
+  },
+  "sales": {
+    "historyTitle": "Sales history",
+    "newSale": "New sale",
+    "firstSale": "Make your first sale",
+    "empty": "No sales yet",
+    "cartEmpty": "Add at least one product to the cart",
+    "pickCashbox": "Pick a sales cashbox (or create one)",
+    "pickRepository": "Pick a repository",
+    "pickCurrency": "Pick a currency",
+    "totalMustBePositive": "Total must be greater than 0. Check price or quantity.",
+    "total": "Total",
+    "sellPrice": "Sell price",
+    "costLabel": "Cost price",
+    "subtotal": "Subtotal",
+    "cost": "Cost",
+    "bank": "Bank",
+    "card": "Card",
+    "cash": "Cash"
+  },
+  "catalog": {
+    "name": "Name", "code": "Code / Barcode", "description": "Description",
+    "productName": "Product name", "category": "Category", "brand": "Brand", "unit": "Unit",
+    "productImages": "Product images", "repository": "Repository", "cashbox": "Cashbox",
+    "currency": "Currency", "client": "Client", "supplier": "Supplier", "role": "Role",
+    "gender": "Gender", "type": "Type"
+  },
+  "invoice": {
+    "status": { "waiting": "Waiting", "approved": "Approved", "canceled": "Canceled" },
+    "date": "Date", "total": "Total", "products": "Products",
+    "approve": "Approve", "pay": "Pay",
+    "approveConfirm": "Approve invoice?",
+    "cancelConfirm": "Cancel invoice?",
+    "payConfirm": "Register payment?"
+  },
+  "deleteConfirm": "Delete {{name}}?",
+  "planGate": {
+    "title": "Your plan is not active",
+    "pending": "Your plan is waiting for approval. The admin must activate it before the app can be used.",
+    "expired": "Your plan has expired. Contact the admin to continue using the app.",
+    "canceled": "Your plan has been canceled. Contact the admin to re-activate it.",
+    "generic": "Plan is not active. Contact the admin to activate it.",
+    "contactAdmin": "Contact admin",
+    "contactHint": "Reach out by phone or email using the contacts below",
+    "retry": "Check again",
+    "logout": "Log out",
+    "phone": "+998 90 000 00 00",
+    "email": "support@digitaltrade.uz"
+  }
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <!-- Digital Trade launcher icon — white background, bold "DT" wordmark
+       in the brand blue. 1024x1024 is the canonical master size for
+       flutter_launcher_icons / Play Store feature graphic generation. -->
+  <rect width="1024" height="1024" fill="#FFFFFF"/>
+  <text
+    x="512"
+    y="562"
+    font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif"
+    font-size="520"
+    font-weight="900"
+    fill="#2563EB"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    letter-spacing="-20">DT</text>
+</svg>

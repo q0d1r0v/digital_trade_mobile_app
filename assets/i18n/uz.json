@@ -1,0 +1,261 @@
+{
+  "common": {
+    "continue": "Davom etish",
+    "back": "Orqaga",
+    "save": "Saqlash",
+    "cancel": "Bekor qilish",
+    "skip": "O'tkazib yuborish",
+    "done": "Tayyor",
+    "loading": "Yuklanmoqda...",
+    "retry": "Qayta urinish",
+    "error": "Xatolik",
+    "delete": "O'chirish",
+    "refresh": "Yangilash",
+    "search": "Qidirish",
+    "notFound": "Topilmadi",
+    "notFoundRoute": "Bunday sahifa mavjud emas",
+    "add": "Qo'shish",
+    "yes": "Ha",
+    "no": "Yo'q"
+  },
+  "validation": {
+    "required": "Majburiy maydon",
+    "invalidEmail": "Email xato",
+    "invalidPhone": "Telefon raqami xato",
+    "minLength6": "Kamida 6 ta belgi",
+    "mustBeGreaterZero": "0 dan katta bo'lishi kerak"
+  },
+  "login": {
+    "title": "Xush kelibsiz",
+    "subtitle": "Davom etish uchun tizimga kiring",
+    "email": "Email",
+    "emailHint": "you@example.com",
+    "password": "Parol",
+    "submit": "Kirish",
+    "noAccount": "Hisobingiz yo'qmi?",
+    "register": "Ro'yxatdan o'tish"
+  },
+  "register": {
+    "title": "Hisob yaratish",
+    "subtitle": "Biznesingizni bir necha daqiqada boshlang",
+    "fullName": "To'liq ismingiz",
+    "email": "Email",
+    "phone": "Telefon",
+    "password": "Parol",
+    "gender": "Jinsingiz",
+    "male": "Erkak",
+    "female": "Ayol",
+    "companyInfo": "Kompaniya ma'lumotlari",
+    "companyName": "Kompaniya nomi",
+    "companyUniqueName": "Unikal nomi (ingliz harflarida)",
+    "uniqueNameHint": "Masalan: mycompany",
+    "companyType": "Kompaniya turi",
+    "physical": "Jismoniy shaxs",
+    "entity": "Yuridik shaxs",
+    "address": "Manzil",
+    "submit": "Ro'yxatdan o'tish",
+    "haveAccount": "Hisobingiz bormi?",
+    "login": "Kirish",
+    "free": "Bepul",
+    "selectPlanTitle": "Tarifni tanlang",
+    "selectPlanSubtitle": "Keyinchalik o'zgartirishingiz mumkin"
+  },
+  "pricing": {
+    "currency": "so'm",
+    "month": "oyiga",
+    "perMonth": "{{amount}} so'm/oy"
+  },
+  "plans": {
+    "starter": {
+      "name": "Starter",
+      "tagline": "Boshlang'ich biznes uchun",
+      "feature1": "Maksimal 2 ta kassa",
+      "feature2": "POS savdo tizimi",
+      "feature3": "Cheksiz mahsulot",
+      "trialNote": "14 kunlik sinov davri"
+    },
+    "business": {
+      "name": "Business",
+      "tagline": "O'sayotgan jamoalar uchun",
+      "feature1": "Cheksiz kassa va filial",
+      "feature2": "Jamoa boshqaruvi",
+      "feature3": "Yuklab olinadigan hisobotlar"
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "tagline": "Katta tashkilotlar uchun",
+      "feature1": "Maxsus shartnoma",
+      "feature2": "Birlamchi qo'llab-quvvatlash",
+      "feature3": "Xususiy integratsiyalar",
+      "contact": "Biz bilan bog'laning",
+      "negotiated": "Kelishiladi"
+    }
+  },
+  "onboarding": {
+    "welcome": {
+      "title": "Digital Trade'ga xush kelibsiz!",
+      "subtitle": "Biznesingizni sozlashni boshlaymiz",
+      "description": "Quyidagi qisqa qadamlar orqali barcha asosiy bo'limlarni sozlab olasiz.",
+      "takeTour": "Menga ko'rsat",
+      "exploreMyself": "O'zim ko'rib chiqaman",
+      "skip": "O'tkazib yuborish"
+    },
+    "checklist": {
+      "title": "Sozlash ro'yxati",
+      "subtitle": "{{done}} / {{total}} bajarildi",
+      "dismiss": "Yopish",
+      "dismissedHint": "Istalgan vaqtda Yordamdan qayta ochishingiz mumkin",
+      "minimize": "Yig'ish",
+      "expand": "Yoyish",
+      "allDoneTitle": "Ajoyib! Hammasi tayyor",
+      "allDoneBody": "Endi biznesingizni to'liq boshqarishingiz mumkin.",
+      "tasks": {
+        "companyProfile": "Kompaniya profilini to'ldirish",
+        "firstCashbox": "Savdo kassasini qo'shish",
+        "firstCategory": "Mahsulot kategoriyasini yaratish",
+        "firstSupplier": "Yetkazib beruvchini qo'shish",
+        "firstProduct": "Birinchi mahsulotni qo'shish",
+        "firstInputInvoice": "Kirim hujjatini kiritish",
+        "firstSale": "Birinchi sotuvni amalga oshirish",
+        "inviteTeam": "Jamoa a'zolarini taklif qilish"
+      }
+    },
+    "tour": {
+      "next": "Keyingi",
+      "prev": "Oldingi",
+      "done": "Tayyor",
+      "progress": "{{current}} / {{total}}",
+      "dashboard": { "title": "Asosiy", "body": "Bu yerda biznes ko'rsatkichlari ko'rinadi." },
+      "products": { "title": "Mahsulotlar", "body": "Kategoriya, brend va mahsulotlarni bu bo'limda boshqarasiz." },
+      "invoices": { "title": "Hujjatlar va savdo", "body": "Kirim, sotuv va POS shu yerda." },
+      "clients": { "title": "Mijozlar", "body": "Mijozlaringiz bilan savdoni bu yerdan yurgizasiz." }
+    },
+    "help": {
+      "title": "Yordam",
+      "subtitle": "Qo'llanmalar va foydali havolalar",
+      "restartTour": "Yo'riqnomani qayta ko'rsatish",
+      "showChecklist": "Sozlash ro'yxatini ochish",
+      "docs": "Hujjatlar",
+      "contact": "Biz bilan bog'lanish",
+      "contactEmail": "support@digitaltrade.uz"
+    }
+  },
+  "home": {
+    "welcome": "Salom, {{name}}",
+    "companyLabel": "Kompaniya",
+    "quickActions": "Tezkor amallar",
+    "setupProgress": "Sozlash jarayoni"
+  },
+  "nav": {
+    "home": "Asosiy",
+    "products": "Mahsulotlar",
+    "clients": "Mijozlar",
+    "invoices": "Hujjatlar",
+    "settings": "Sozlamalar",
+    "brands": "Brendlar",
+    "suppliers": "Ta'minotchilar",
+    "categories": "Kategoriyalar",
+    "cashboxes": "Kassalar",
+    "team": "Jamoa",
+    "salesHistory": "Sotuv tarixi"
+  },
+  "settings": {
+    "title": "Sozlamalar",
+    "language": "Til",
+    "theme": "Mavzu",
+    "themeLight": "Yorug'",
+    "themeDark": "Qorong'u",
+    "themeSystem": "Tizim",
+    "help": "Yordam",
+    "logout": "Chiqish",
+    "account": "Hisob",
+    "about": "Dastur haqida"
+  },
+  "auth": {
+    "logoutConfirm": "Chiqishga ishonchingiz komilmi?"
+  },
+  "dashboard": {
+    "kpiTitle": "Ko'rsatkichlar",
+    "monthlySalesTitle": "Oylik sotuv",
+    "monthlySalesEmpty": "Oylik sotuv ma'lumoti yetarli emas",
+    "sales": "Sotuv",
+    "purchases": "Kirim",
+    "profit": "Foyda",
+    "loss": "Ziyon",
+    "profitOrLoss": "Foyda / Ziyon",
+    "debtSales": "Qarzga sotish",
+    "returns": "Qaytarilgan",
+    "stockValue": "Ombor qiymati",
+    "invoiceCount": "{{n}} ta hujjat",
+    "quantity": "Miqdor",
+    "soldQuantity": "Sotilgan miqdor",
+    "givenBonus": "Berilgan bonuslar",
+    "givenBonusQuantity": "Bonus miqdori"
+  },
+  "sales": {
+    "historyTitle": "Sotuv tarixi",
+    "newSale": "Yangi sotuv",
+    "firstSale": "Birinchi sotuvni qilish",
+    "empty": "Hozircha sotuvlar yo'q",
+    "cartEmpty": "Savatga kamida bitta mahsulot qo'shing",
+    "pickCashbox": "Sotuv kassasini tanlang (yoki avval yarating)",
+    "pickRepository": "Omborni tanlang",
+    "pickCurrency": "Valyutani tanlang",
+    "totalMustBePositive": "Umumiy summa 0 dan katta bo'lishi kerak. Narx yoki miqdorni tekshiring.",
+    "total": "Umumiy",
+    "sellPrice": "Sotuv narxi",
+    "costLabel": "Narx (ustama)",
+    "subtotal": "Subtotal",
+    "cost": "Narx",
+    "bank": "Bank",
+    "card": "Karta",
+    "cash": "Naqd"
+  },
+  "catalog": {
+    "name": "Nomi",
+    "code": "Kod / Shtrix-kod",
+    "description": "Tavsif",
+    "productName": "Mahsulot nomi",
+    "category": "Kategoriya",
+    "brand": "Brend",
+    "unit": "O'lchov birligi",
+    "productImages": "Mahsulot rasmlari",
+    "repository": "Ombor",
+    "cashbox": "Kassa",
+    "currency": "Valyuta",
+    "client": "Mijoz",
+    "supplier": "Ta'minotchi",
+    "role": "Rol",
+    "gender": "Jinsi",
+    "type": "Turi"
+  },
+  "invoice": {
+    "status": {
+      "waiting": "Kutilmoqda",
+      "approved": "Tasdiqlangan",
+      "canceled": "Bekor qilingan"
+    },
+    "date": "Sana",
+    "total": "Umumiy",
+    "products": "Mahsulotlar",
+    "approve": "Tasdiqlash",
+    "pay": "To'lash",
+    "approveConfirm": "Hujjatni tasdiqlaysizmi?",
+    "cancelConfirm": "Hujjatni bekor qilasizmi?",
+    "payConfirm": "To'lovni qayd qilasizmi?"
+  },
+  "deleteConfirm": "{{name}}ni o'chirasizmi?",
+  "planGate": {
+    "title": "Tarifingiz faol emas",
+    "pending": "Tarifingiz tasdiqlanishini kutmoqda. Dastur ishlashi uchun admin tarifni faollashtirishi kerak.",
+    "expired": "Tarif muddati tugagan. Davom ettirish uchun admin bilan bog'laning.",
+    "canceled": "Tarif bekor qilingan. Admin bilan bog'lanib qaytadan faollashtiring.",
+    "generic": "Tarif faol emas. Admin bilan bog'lanib faollashtiring.",
+    "contactAdmin": "Admin bilan bog'lanish",
+    "contactHint": "Telefon yoki email orqali boshqaruvchiga murojaat qiling",
+    "retry": "Qayta tekshirish",
+    "logout": "Chiqish",
+    "phone": "+998 90 000 00 00",
+    "email": "support@digitaltrade.uz"
+  }
+}
